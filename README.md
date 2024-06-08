@@ -8,7 +8,7 @@ You can run the code by Makefile(yeah, only on Linux :), will be added on window
 
 ### About game
 Da game is a simple labyrinth game including:
-player
+player,
 2 exits,
 1-3 fires that spread throughout the game, and will kill you if you just clown around
 and a bot, which has 4 difficulties.
